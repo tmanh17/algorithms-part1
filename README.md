@@ -1,5 +1,8 @@
 # algorithms-part1
+https://www.coursera.org/learn/algorithms-part1
+
 Algorithms, Part I by Princeton University
+
 
 |Assignment                    | Status  | Score|
 |------------------------------|---------|------|
